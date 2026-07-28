@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://abdulbasit-echotech.github.io/portfolio",
+  "homepage": "https://basit9632584-bit.github.io/personal-portfolio",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
